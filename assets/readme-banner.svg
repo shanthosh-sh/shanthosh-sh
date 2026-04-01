@@ -1,0 +1,117 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B0F15" />
+      <stop offset="1" stop-color="#0E121A" />
+    </linearGradient>
+    <linearGradient id="panel" x1="52" y1="42" x2="1148" y2="304" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020" />
+      <stop offset="0.45" stop-color="#151C39" />
+      <stop offset="0.72" stop-color="#29205A" />
+      <stop offset="1" stop-color="#0A0D18" />
+    </linearGradient>
+    <linearGradient id="topLine" x1="78" y1="58" x2="1104" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8" />
+      <stop offset="0.56" stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#F43F5E" />
+    </linearGradient>
+    <linearGradient id="beam" x1="720" y1="34" x2="994" y2="304" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.00" />
+      <stop offset="0.38" stop-color="#8B5CF6" stop-opacity="0.14" />
+      <stop offset="0.62" stop-color="#8B5CF6" stop-opacity="0.86" />
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.00" />
+    </linearGradient>
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(844 120) rotate(0) scale(286 194)">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.70" />
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.00" />
+    </radialGradient>
+    <radialGradient id="baseGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(592 200) rotate(0) scale(408 188)">
+      <stop offset="0" stop-color="#4F46E5" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#4F46E5" stop-opacity="0.00" />
+    </radialGradient>
+    <filter id="blur" x="598" y="-42" width="470" height="410" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="34" />
+    </filter>
+    <filter id="grain" x="0" y="0" width="1200" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7" stitchTiles="stitch" />
+      <feColorMatrix type="saturate" values="0" />
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.11" />
+      </feComponentTransfer>
+    </filter>
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="1" fill="#E2E8F0" fill-opacity="0.03" />
+    </pattern>
+    <clipPath id="panelClip">
+      <rect x="52" y="42" width="1096" height="264" rx="18" />
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)" />
+
+  <g clip-path="url(#panelClip)">
+    <rect x="52" y="42" width="1096" height="264" rx="18" fill="url(#panel)" />
+    <ellipse cx="596" cy="188" rx="390" ry="176" fill="url(#baseGlow)" />
+    <g filter="url(#blur)">
+      <ellipse cx="846" cy="128" rx="172" ry="138" fill="url(#purpleGlow)" />
+    </g>
+    <rect x="52" y="42" width="1096" height="264" fill="url(#beam)" />
+
+    <path
+      d="M52 302C214 301 342 300 474 302C618 304 714 296 840 293C956 290 1049 291 1148 307V306H52V302Z"
+      fill="#111629"
+      fill-opacity="0.90"
+    />
+    <path
+      d="M52 299C223 300 360 298 504 300C653 302 785 290 924 292C1026 293 1099 296 1148 300"
+      stroke="#9F7AEA"
+      stroke-opacity="0.22"
+      stroke-width="2"
+    />
+
+    <rect x="52" y="42" width="1096" height="264" fill="url(#scanlines)" opacity="0.36" />
+    <rect x="52" y="42" width="1096" height="264" filter="url(#grain)" opacity="0.52" />
+  </g>
+
+  <rect x="52.75" y="42.75" width="1094.5" height="262.5" rx="17.25" stroke="#2B3150" stroke-width="1.5" />
+  <path d="M82 58H1110" stroke="url(#topLine)" stroke-width="2.5" stroke-linecap="round" />
+
+  <text
+    x="600"
+    y="169"
+    text-anchor="middle"
+    fill="none"
+    stroke="#E2E8F0"
+    stroke-opacity="0.085"
+    stroke-width="2"
+    font-family="Arial Black, Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="88"
+    letter-spacing="2"
+  >
+    SHANTHOSH
+  </text>
+
+  <text
+    x="600"
+    y="170"
+    text-anchor="middle"
+    fill="#E7ECF5"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="58"
+    font-weight="700"
+  >
+    Shanthosh Sironmani
+  </text>
+
+  <text
+    x="600"
+    y="226"
+    text-anchor="middle"
+    fill="#D5DBE7"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="24"
+    font-weight="600"
+  >
+    Full Stack | Game Devlopment | Adobe creative production
+  </text>
+</svg>
