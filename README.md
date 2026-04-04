@@ -179,7 +179,6 @@
 
 - Linux-hosted environments and day-to-day infrastructure handling
 - Pterodactyl panel workflows, runtime management, and service organization
-- txAdmin operations for game-server administration
 - Docker-based deployment flow and service setup
 - MySQL connectivity, issue isolation, and runtime troubleshooting
 - Cloudflare and cloudflared workflows for routing and access
