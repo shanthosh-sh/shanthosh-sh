@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=E2E8F0&center=true&vCenter=true&width=1180&lines=Web+development%2C+full-stack+systems%2C+hosting+infrastructure%2C+and+FiveM+development;Adobe-based+production+work+with+a+strong+focus+on+execution+and+presentation;Built+around+stable+delivery%2C+clear+structure%2C+and+practical+usability">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=E2E8F0&center=true&vCenter=true&width=1180&lines=Web+development+and+hosting+operations;FiveM+gameplay+and+server+tools;Trailers%2C+gameplay+edits+and+technical+showcases">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=E2E8F0&center=true&vCenter=true&width=1180&lines=Web+development%2C+full-stack+systems%2C+hosting+infrastructure%2C+and+FiveM+development;Adobe-based+production+work+with+a+strong+focus+on+execution+and+presentation;Built+around+stable+delivery%2C+clear+structure%2C+and+practical+usability"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=E2E8F0&center=true&vCenter=true&width=1180&lines=Web+development+and+hosting+operations;FiveM+gameplay+and+server+tools;Trailers%2C+gameplay+edits+and+technical+showcases"
       alt="Typing introduction"
     />
   </a>
@@ -36,16 +36,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider" />
 </p>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About me</h2>
 
 <p align="center">
-  I work across operations and technical delivery at Altivora Hosting, with a focus on web platforms, full-stack systems, hosting infrastructure, FiveM gameplay systems, and Adobe-based production work.
+  I’m Shanthosh Sironmani, COO at Altivora Hosting. I build web applications, work on the infrastructure behind them, and help troubleshoot service issues. I also develop FiveM gameplay systems and edit trailers and gameplay showcases.
 </p>
-
-- I work best where product, infrastructure, and execution need to stay aligned
-- I focus on systems that need to remain stable, usable, and clear under real use
-- My work is shaped by structure, issue isolation, delivery quality, and clean technical communication
-- I care about usability, maintainability, and presentation quality without unnecessary complexity
 
 <p align="left">
   <img src="https://img.shields.io/badge/Area-Web%20Development-111827?style=for-the-badge" alt="Web development" />
@@ -59,13 +54,99 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider" />
 </p>
 
-<h2 align="center">Main Tech Stack</h2>
+<h2 align="center">Altivora Hosting</h2>
 
 <p align="center">
-  This stack reflects the work I actually do across web delivery, gameplay systems, hosting infrastructure, and production workflows.
+  At Altivora, my work covers the public hosting site, the tools we use to manage services, and the day-to-day operation of those services.
 </p>
 
-### Web And Application Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-Server%20Environments-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Pterodactyl-Panel%20Operations-0f172a?style=for-the-badge" alt="Pterodactyl" />
+  <img src="https://img.shields.io/badge/txAdmin-Server%20Management-0f172a?style=for-the-badge" alt="txAdmin" />
+  <img src="https://img.shields.io/badge/Docker-Container%20Workflows-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-Service%20Data-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Cloudflare-Edge%20Routing-0f172a?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/cloudflared-Tunnel%20Flow-0f172a?style=for-the-badge" alt="cloudflared" />
+  <img src="https://img.shields.io/badge/Support-Issue%20Isolation-0f172a?style=for-the-badge" alt="Support issue isolation" />
+</p>
+
+- **Web applications:** Build customer-facing pages and admin workflows. I work across the interface, application logic, and database so changes make sense at each layer.
+- **Deployment and routing:** Run services on Linux, deploy with Docker, and use Cloudflare and `cloudflared` for routing and access. I also work with Pterodactyl to manage game server environments.
+- **Technical support:** Trace runtime and MySQL connectivity problems, isolate where a failure starts, and document what to check when it happens again.
+
+<p align="left">
+  <a href="https://www.altivorahosting.com">
+    <img src="https://img.shields.io/badge/altivorahosting.com-Open%20Website-111827?style=for-the-badge" alt="Altivora Hosting website" />
+  </a>
+  <a href="https://www.altivorahosting.com/store/vps-hosting">
+    <img src="https://img.shields.io/badge/VPS%20Hosting-View%20Plans-111827?style=for-the-badge" alt="Altivora VPS hosting" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider" />
+</p>
+
+<h2 align="center">Vagos Roleplay</h2>
+
+<p align="center">
+  I’ve worked on the Lua and ESX systems that run Vagos Roleplay, from how players join the server to what staff can see when they investigate an incident.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FiveM-Gameplay%20Systems-0f172a?style=for-the-badge" alt="FiveM gameplay systems" />
+  <img src="https://img.shields.io/badge/ESX-Server%20Logic-0f172a?style=for-the-badge" alt="ESX server logic" />
+  <img src="https://img.shields.io/badge/Combat-Damage%20Flow-0f172a?style=for-the-badge" alt="Combat and damage flow" />
+  <img src="https://img.shields.io/badge/PvP-Gameplay%20Structure-0f172a?style=for-the-badge" alt="PvP gameplay structure" />
+  <img src="https://img.shields.io/badge/Whitelist-Access%20Flow-0f172a?style=for-the-badge" alt="Whitelist access flow" />
+  <img src="https://img.shields.io/badge/Discord-Gameplay%20Logs-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord gameplay logs" />
+  <img src="https://img.shields.io/badge/Rules-Roleplay%20Architecture-0f172a?style=for-the-badge" alt="Roleplay rule architecture" />
+</p>
+
+- **Combat and PvP:** Work on damage, headshots, and death handling, as well as free-for-all and PvP rules.
+- **Player interactions:** Build carry interactions, job restrictions, and outfit and appearance logic.
+- **Access and moderation:** Work on whitelist access and roleplay rules. Send gameplay events to Discord so staff can review what happened.
+- **Rollout:** Help plan community updates and decide how new gameplay features fit the server’s rules.
+
+<p align="left">
+  <a href="https://vagosroleplay.co.in">
+    <img src="https://img.shields.io/badge/vagosroleplay.co.in-Open%20Website-111827?style=for-the-badge" alt="Vagos Roleplay website" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider" />
+</p>
+
+<h2 align="center">Creative production</h2>
+
+I edit trailers, montages, and technical showcases. For gameplay footage, I use Rockstar Editor to set up the shots, then cut the sequence in Premiere Pro. I use After Effects for motion work and Voukoder for exports.
+
+In a trailer I cut for pacing and atmosphere. In a technical showcase I keep the sequence clear enough to follow the feature from input to result.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe-Premiere%20Pro-0f172a?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro" />
+  <img src="https://img.shields.io/badge/Adobe-After%20Effects-0f172a?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/Tool-Rockstar%20Editor-0f172a?style=for-the-badge" alt="Rockstar Editor" />
+  <img src="https://img.shields.io/badge/Tool-Voukoder-0f172a?style=for-the-badge" alt="Voukoder" />
+  <img src="https://img.shields.io/badge/Workflow-Motion%20Editing-0f172a?style=for-the-badge" alt="Motion editing" />
+  <img src="https://img.shields.io/badge/Workflow-Trailer%20Structure-0f172a?style=for-the-badge" alt="Trailer structure" />
+  <img src="https://img.shields.io/badge/Direction-Promo%20Work-0f172a?style=for-the-badge" alt="Promo direction" />
+  <img src="https://img.shields.io/badge/Output-Technical%20Showcase-0f172a?style=for-the-badge" alt="Technical showcase" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider" />
+</p>
+
+<h2 align="center">Tools I use</h2>
+
+<p align="center">
+  A reference for the tools I use across web applications, infrastructure, and game servers.
+</p>
+
+### Web and application development
 
 <p align="center">
   <img
@@ -87,7 +168,7 @@
   <img src="https://img.shields.io/badge/Schema-Zod-0f172a?style=for-the-badge" alt="Zod" />
 </p>
 
-### Infrastructure And Operations
+### Infrastructure and operations
 
 <p align="center">
   <img
@@ -110,128 +191,18 @@
   <img src="https://img.shields.io/badge/Language-Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 
-### FiveM And Gameplay Systems
+### FiveM development
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Lua-0f172a?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="Lua" />
   <img src="https://img.shields.io/badge/Platform-FiveM-0f172a?style=for-the-badge" alt="FiveM" />
 </p>
 
-### Adobe And Creative Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe-Premiere%20Pro-0f172a?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro" />
-  <img src="https://img.shields.io/badge/Adobe-After%20Effects-0f172a?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="Adobe After Effects" />
-  <img src="https://img.shields.io/badge/Tool-Rockstar%20Editor-0f172a?style=for-the-badge" alt="Rockstar Editor" />
-  <img src="https://img.shields.io/badge/Tool-Voukoder-0f172a?style=for-the-badge" alt="Voukoder" />
-  <img src="https://img.shields.io/badge/Workflow-Motion%20Editing-0f172a?style=for-the-badge" alt="Motion editing" />
-  <img src="https://img.shields.io/badge/Workflow-Trailer%20Structure-0f172a?style=for-the-badge" alt="Trailer structure" />
-  <img src="https://img.shields.io/badge/Direction-Promo%20Work-0f172a?style=for-the-badge" alt="Promo direction" />
-  <img src="https://img.shields.io/badge/Output-Technical%20Showcase-0f172a?style=for-the-badge" alt="Technical showcase" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider" />
 </p>
 
-<h2 align="center">What I Work Across</h2>
-
-### Web Development
-
-- Frontend and backend work shaped around real use, clear flow, and maintainable structure
-- Product-facing systems, admin workflows, and documentation that support day-to-day execution
-
-### Full-Stack Development
-
-- Application logic, database handling, deployment flow, and infrastructure brought together into one usable system
-- Support-aware execution built around issue isolation, runtime clarity, and service stability
-
-### Game Development
-
-- FiveM systems built around gameplay feel, PvP flow, serious roleplay structure, and cleaner server logic
-- Work that balances player experience, rule enforcement, and long-term feature stability
-
-### Adobe Workflow
-
-- Motion-led editing for promo, showcase, montage, and trailer-style content
-- Visual work used to present technical products clearly and give projects a stronger finish
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider" />
-</p>
-
-<h2 align="center">Altivora Hosting</h2>
-
-<p align="center">
-  Altivora Hosting is where I handle most of my operations and technical execution work. The focus is keeping services stable, supportable, and structured well enough to hold up under daily use.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-Server%20Environments-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Pterodactyl-Panel%20Operations-0f172a?style=for-the-badge" alt="Pterodactyl" />
-  <img src="https://img.shields.io/badge/txAdmin-Server%20Management-0f172a?style=for-the-badge" alt="txAdmin" />
-  <img src="https://img.shields.io/badge/Docker-Container%20Workflows-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-Service%20Data-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Cloudflare-Edge%20Routing-0f172a?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/cloudflared-Tunnel%20Flow-0f172a?style=for-the-badge" alt="cloudflared" />
-  <img src="https://img.shields.io/badge/Support-Issue%20Isolation-0f172a?style=for-the-badge" alt="Support issue isolation" />
-</p>
-
-- Linux-hosted environments and day-to-day infrastructure handling
-- Pterodactyl panel workflows, runtime management, and service organization
-- Docker-based deployment flow and service setup
-- MySQL connectivity, issue isolation, and runtime troubleshooting
-- Cloudflare and cloudflared workflows for routing and access
-- Support-side technical problem solving and operational cleanup
-
-<p align="left">
-  <a href="https://www.altivorahosting.com">
-    <img src="https://img.shields.io/badge/altivorahosting.com-Open%20Website-111827?style=for-the-badge" alt="Altivora Hosting website" />
-  </a>
-  <a href="https://www.altivorahosting.com/store/vps-hosting">
-    <img src="https://img.shields.io/badge/VPS%20Hosting-View%20Plans-111827?style=for-the-badge" alt="Altivora VPS hosting" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider" />
-</p>
-
-<h2 align="center">Vagos Roleplay</h2>
-
-<p align="center">
-  Vagos Roleplay is one of the main FiveM projects I have worked around. The work is centered on stronger roleplay systems, better gameplay structure, and long-term stability.
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/FiveM-Gameplay%20Systems-0f172a?style=for-the-badge" alt="FiveM gameplay systems" />
-  <img src="https://img.shields.io/badge/ESX-Server%20Logic-0f172a?style=for-the-badge" alt="ESX server logic" />
-  <img src="https://img.shields.io/badge/Combat-Damage%20Flow-0f172a?style=for-the-badge" alt="Combat and damage flow" />
-  <img src="https://img.shields.io/badge/PvP-Gameplay%20Structure-0f172a?style=for-the-badge" alt="PvP gameplay structure" />
-  <img src="https://img.shields.io/badge/Whitelist-Access%20Flow-0f172a?style=for-the-badge" alt="Whitelist access flow" />
-  <img src="https://img.shields.io/badge/Discord-Gameplay%20Logs-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord gameplay logs" />
-  <img src="https://img.shields.io/badge/Rules-Roleplay%20Architecture-0f172a?style=for-the-badge" alt="Roleplay rule architecture" />
-</p>
-
-- ESX-based server logic and gameplay systems
-- Combat, death, damage, and headshot-based mechanics
-- Carry interactions, job restrictions, outfit flow, and appearance logic
-- FFA and PvP structure shaped around gameplay feel and balance
-- Discord-connected gameplay logs and operational visibility
-- Rule architecture, whitelist flow, and serious roleplay structure
-- Community rollout planning and long-term gameplay direction
-
-<p align="left">
-  <a href="https://vagosroleplay.co.in">
-    <img src="https://img.shields.io/badge/vagosroleplay.co.in-Open%20Website-111827?style=for-the-badge" alt="Vagos Roleplay website" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:7C3AED,100:F43F5E&height=3&section=header" width="100%" alt="Divider" />
-</p>
-
-<h2 align="center">How To Reach Me</h2>
+<h2 align="center">Project links</h2>
 
 <p align="center">
   <a href="https://www.altivorahosting.com">
