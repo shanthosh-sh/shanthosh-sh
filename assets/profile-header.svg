@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="270" viewBox="0 0 960 270" role="img" aria-labelledby="title">
+  <title id="title">Shanthosh Sironmani</title>
+  <rect width="960" height="270" rx="12" fill="#102724"/>
+  <path d="M40 42H920M40 228H920" stroke="#56796f" stroke-width="1"/>
+  <g fill="none" stroke-width="2">
+    <path d="M661 78h65l52 57h142" stroke="#99c3b4"/>
+    <path d="M661 135h259" stroke="#e8d5a6"/>
+    <path d="M661 192h65l52-57" stroke="#99c3b4"/>
+    <path d="M825 135l53 57h42" stroke="#99c3b4"/>
+  </g>
+  <g fill="#102724" stroke="#e8d5a6" stroke-width="2">
+    <circle cx="661" cy="78" r="4"/>
+    <circle cx="661" cy="135" r="4"/>
+    <circle cx="661" cy="192" r="4"/>
+    <circle cx="778" cy="135" r="5"/>
+    <circle cx="920" cy="135" r="4"/>
+    <circle cx="920" cy="192" r="4"/>
+  </g>
+  <text x="44" y="135" fill="#f5f1e7" font-family="Georgia, Times New Roman, serif" font-size="61">Shanthosh Sironmani</text>
+  <text x="48" y="177" fill="#c5d7ce" font-family="Helvetica, Arial, sans-serif" font-size="23">Web systems, hosting operations and FiveM</text>
+</svg>
